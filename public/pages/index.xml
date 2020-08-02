@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Man O&#39;War</title>
+    <link>localhost:1313/pages/</link>
+    <description>Recent content in Pages on Man O&#39;War</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 28 Mar 2020 12:01:59 +0000</lastBuildDate>
+    
+	<atom:link href="localhost:1313/pages/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>localhost:1313/pages/about/</link>
+      <pubDate>Sat, 28 Mar 2020 12:01:59 +0000</pubDate>
+      
+      <guid>localhost:1313/pages/about/</guid>
+      <description>About US</description>
+    </item>
+    
+    <item>
+      <title>Shop</title>
+      <link>localhost:1313/pages/shop/</link>
+      <pubDate>Sun, 22 Mar 2020 12:01:59 +0000</pubDate>
+      
+      <guid>localhost:1313/pages/shop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>localhost:1313/pages/contact/</link>
+      <pubDate>Fri, 28 Feb 2020 12:01:59 +0000</pubDate>
+      
+      <guid>localhost:1313/pages/contact/</guid>
+      <description>Contact us for more information</description>
+    </item>
+    
+  </channel>
+</rss>
