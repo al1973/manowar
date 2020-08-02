@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+  {{ partial "head" . }}
+  <body>
+<div class="container">
+<div class="auto-grid">
+{{ range .Pages }}
+
+
+<div class="card" style="padding: 1rem;">
+ <div class="card-image">
+   <a href="{{ .Permalink }}">
+      <div class="image is-square fig-background">
+      </div>
+      <div class="card-content is-overlay">
+           <span class=""><h1 class="title"style="mix-blend-mode:color-screen; color: white;">{{.Title}}
+           {{ .Params.when }}</h1></span>
+      </div>
+   </a>
+ </div>
+</div>
+{{end}}
+</div>
+</div>
+</body>
+</html>
+
+<style>
+.fig-background {
+
+  background-color: blue;
+  background-image: url(/images/porto.jpg);
+  background-size: cover;
+  background-blend-mode: multiply;
+}
+
+.auto-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(var(--auto-grid-min-size, 16rem), 1fr));
+  grid-gap: 1rem;
+}
+</style>

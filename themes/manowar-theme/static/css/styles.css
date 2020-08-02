@@ -1,0 +1,104 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 16px;
+  font-family: 'IBM Plex Mono', monospace;
+  font-weight: 300;
+  line-height: 1.25;
+}
+
+.site {
+ 
+  background-repeat: no-repeat;
+  background: rgb(238,174,202);
+background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(48,114,192,1) 100%);
+  color: #FFF;
+  min-height: 100vh; /* allows room for scrolling to see parallax */
+  height: 100%;
+}
+
+.site__header,
+.site__nav-list {
+  display: flex;
+}
+
+.site__header {
+  position: fixed;
+  top: 0;
+  right: 1.25rem;
+  writing-mode: vertical-rl;
+  height: 100%;
+  padding: 1.25rem 0;
+ 
+}
+
+.site__header > * {
+  flex: 1 1 auto;
+  padding-bottom: .625rem;
+}
+
+.site__nav-list {
+  justify-content: space-between;
+  list-style-type: none;
+}
+
+.site__nav {
+  padding-bottom: 0;
+}
+
+.site__nav-link {
+  display: block;
+  text-decoration: none;
+  color: #FFF;
+  padding-bottom: .625rem;
+}
+
+.site__nav-list li:last-child .site__nav-link {
+  padding-bottom: 0;
+}
+
+.block {
+  display: block;
+}
+
+.main {
+  padding: 3rem;
+ 
+  min-height: 100vh; /* make content as tall as the viewport */
+  width: 100%;
+}
+
+.container {
+  position: relative;
+  z-index: 1;
+}
+
+.heading {
+  font-size: 1.5rem;
+  text-transform: uppercase;
+  margin-bottom: 2rem;
+}
+
+@media screen and (min-width: 40rem) {
+    .heading {
+        font-size: 4rem;
+    
+    }
+}
+
+mark {
+  color: #FFF;
+  background-color: #000;
+  line-height: 1.35;
+  padding: 6px;
+}
+
+img {
+  display: block;
+  width: 100%;
+}
+
+
+</style>

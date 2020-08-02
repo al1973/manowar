@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  {{ partial "head" . }}
+<body>
+     <div>
+In your cart: 
+<button class="snipcart-checkout button">  <span class="icon">
+                  <i class="fa fa-shopping-cart"></i>
+                </span></button>
+
+<span class="snipcart-items-count"></span>
+<span class="snipcart-total-price"></span>
+          <h1>{{.Title}}</h1>
+          <h2>{{ dateFormat "Monday, Jan 2, 2006" .Date }}</h2>
+          <p>{{.Content}}</p>
+<button class="snipcart-add-item button" 
+          data-item-id="{{ .Params.productID }}"
+          data-item-name="{{ .Title }}" 
+          data-item-price="{{ .Params.Price }}" 
+          data-item-url="{{ .Permalink }}"
+	  data-item-image=""
+          data-item-description="{{ .Content }}">
+          Add to cart
+        </button>
+     </div>  
+</body>
+</html>
