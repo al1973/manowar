@@ -3,80 +3,80 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>localhost:1313/products/product-one/</loc>
+    <loc>manowar.netlify.app/products/product-one/</loc>
   </url>
   
   <url>
-    <loc>localhost:1313/products/product-two/</loc>
+    <loc>manowar.netlify.app/products/product-two/</loc>
   </url>
   
   <url>
-    <loc>localhost:1313/products/product-three/</loc>
+    <loc>manowar.netlify.app/products/product-three/</loc>
   </url>
   
   <url>
-    <loc>localhost:1313/products/product-four/</loc>
+    <loc>manowar.netlify.app/products/product-four/</loc>
   </url>
   
   <url>
-    <loc>localhost:1313/products/product-five/</loc>
+    <loc>manowar.netlify.app/products/product-five/</loc>
   </url>
   
   <url>
-    <loc>localhost:1313/pages/about/</loc>
+    <loc>manowar.netlify.app/pages/about/</loc>
     <lastmod>2020-03-28T12:01:59+00:00</lastmod>
   </url>
   
   <url>
-    <loc>localhost:1313/</loc>
+    <loc>manowar.netlify.app/</loc>
     <lastmod>2020-03-28T12:01:59+00:00</lastmod>
   </url>
   
   <url>
-    <loc>localhost:1313/pages/</loc>
+    <loc>manowar.netlify.app/pages/</loc>
     <lastmod>2020-03-28T12:01:59+00:00</lastmod>
   </url>
   
   <url>
-    <loc>localhost:1313/pages/shop/</loc>
+    <loc>manowar.netlify.app/pages/shop/</loc>
     <lastmod>2020-03-22T12:01:59+00:00</lastmod>
   </url>
   
   <url>
-    <loc>localhost:1313/pages/contact/</loc>
+    <loc>manowar.netlify.app/pages/contact/</loc>
     <lastmod>2020-02-28T12:01:59+00:00</lastmod>
   </url>
   
   <url>
-    <loc>localhost:1313/posts/post-three/</loc>
+    <loc>manowar.netlify.app/posts/post-three/</loc>
     <lastmod>2020-02-28T12:01:25+00:00</lastmod>
   </url>
   
   <url>
-    <loc>localhost:1313/posts/</loc>
+    <loc>manowar.netlify.app/posts/</loc>
     <lastmod>2020-02-28T12:01:25+00:00</lastmod>
   </url>
   
   <url>
-    <loc>localhost:1313/posts/post-two/</loc>
+    <loc>manowar.netlify.app/posts/post-two/</loc>
     <lastmod>2020-02-28T12:01:18+00:00</lastmod>
   </url>
   
   <url>
-    <loc>localhost:1313/posts/post-one/</loc>
+    <loc>manowar.netlify.app/posts/post-one/</loc>
     <lastmod>2020-02-28T12:01:10+00:00</lastmod>
   </url>
   
   <url>
-    <loc>localhost:1313/categories/</loc>
+    <loc>manowar.netlify.app/categories/</loc>
   </url>
   
   <url>
-    <loc>localhost:1313/products/</loc>
+    <loc>manowar.netlify.app/products/</loc>
   </url>
   
   <url>
-    <loc>localhost:1313/tags/</loc>
+    <loc>manowar.netlify.app/tags/</loc>
   </url>
   
 </urlset>

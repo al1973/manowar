@@ -2,111 +2,111 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Man O&#39;War</title>
-    <link>localhost:1313/</link>
+    <link>manowar.netlify.app/</link>
     <description>Recent content on Man O&#39;War</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 28 Mar 2020 12:01:59 +0000</lastBuildDate>
     
-	<atom:link href="localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="manowar.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Walk One</title>
-      <link>localhost:1313/products/product-one/</link>
+      <link>manowar.netlify.app/products/product-one/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>localhost:1313/products/product-one/</guid>
+      <guid>manowar.netlify.app/products/product-one/</guid>
       <description>A three hour walking tour for small groups</description>
     </item>
     
     <item>
       <title>Walk Two</title>
-      <link>localhost:1313/products/product-two/</link>
+      <link>manowar.netlify.app/products/product-two/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>localhost:1313/products/product-two/</guid>
+      <guid>manowar.netlify.app/products/product-two/</guid>
       <description>This is walk two</description>
     </item>
     
     <item>
       <title>Walk Three</title>
-      <link>localhost:1313/products/product-three/</link>
+      <link>manowar.netlify.app/products/product-three/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>localhost:1313/products/product-three/</guid>
+      <guid>manowar.netlify.app/products/product-three/</guid>
       <description>This is walk three</description>
     </item>
     
     <item>
       <title>Walk Four</title>
-      <link>localhost:1313/products/product-four/</link>
+      <link>manowar.netlify.app/products/product-four/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>localhost:1313/products/product-four/</guid>
+      <guid>manowar.netlify.app/products/product-four/</guid>
       <description>This is walk four</description>
     </item>
     
     <item>
       <title>Walk Five</title>
-      <link>localhost:1313/products/product-five/</link>
+      <link>manowar.netlify.app/products/product-five/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>localhost:1313/products/product-five/</guid>
+      <guid>manowar.netlify.app/products/product-five/</guid>
       <description>This is walk five</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>localhost:1313/pages/about/</link>
+      <link>manowar.netlify.app/pages/about/</link>
       <pubDate>Sat, 28 Mar 2020 12:01:59 +0000</pubDate>
       
-      <guid>localhost:1313/pages/about/</guid>
+      <guid>manowar.netlify.app/pages/about/</guid>
       <description>About US</description>
     </item>
     
     <item>
       <title>Shop</title>
-      <link>localhost:1313/pages/shop/</link>
+      <link>manowar.netlify.app/pages/shop/</link>
       <pubDate>Sun, 22 Mar 2020 12:01:59 +0000</pubDate>
       
-      <guid>localhost:1313/pages/shop/</guid>
+      <guid>manowar.netlify.app/pages/shop/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>localhost:1313/pages/contact/</link>
+      <link>manowar.netlify.app/pages/contact/</link>
       <pubDate>Fri, 28 Feb 2020 12:01:59 +0000</pubDate>
       
-      <guid>localhost:1313/pages/contact/</guid>
+      <guid>manowar.netlify.app/pages/contact/</guid>
       <description>Contact us for more information</description>
     </item>
     
     <item>
       <title>Post Three</title>
-      <link>localhost:1313/posts/post-three/</link>
+      <link>manowar.netlify.app/posts/post-three/</link>
       <pubDate>Fri, 28 Feb 2020 12:01:25 +0000</pubDate>
       
-      <guid>localhost:1313/posts/post-three/</guid>
+      <guid>manowar.netlify.app/posts/post-three/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Post Two</title>
-      <link>localhost:1313/posts/post-two/</link>
+      <link>manowar.netlify.app/posts/post-two/</link>
       <pubDate>Fri, 28 Feb 2020 12:01:18 +0000</pubDate>
       
-      <guid>localhost:1313/posts/post-two/</guid>
+      <guid>manowar.netlify.app/posts/post-two/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Post One</title>
-      <link>localhost:1313/posts/post-one/</link>
+      <link>manowar.netlify.app/posts/post-one/</link>
       <pubDate>Fri, 28 Feb 2020 12:01:10 +0000</pubDate>
       
-      <guid>localhost:1313/posts/post-one/</guid>
+      <guid>manowar.netlify.app/posts/post-one/</guid>
       <description></description>
     </item>
     
