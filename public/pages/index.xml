@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on Man O&#39;War</title>
-    <link>manowar.netlify.app/pages/</link>
+    <link>https://manowar.netlify.app/pages/</link>
     <description>Recent content in Pages on Man O&#39;War</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 28 Mar 2020 12:01:59 +0000</lastBuildDate>
     
-	<atom:link href="manowar.netlify.app/pages/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://manowar.netlify.app/pages/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>manowar.netlify.app/pages/about/</link>
+      <link>https://manowar.netlify.app/pages/about/</link>
       <pubDate>Sat, 28 Mar 2020 12:01:59 +0000</pubDate>
       
-      <guid>manowar.netlify.app/pages/about/</guid>
+      <guid>https://manowar.netlify.app/pages/about/</guid>
       <description>About US</description>
     </item>
     
     <item>
       <title>Shop</title>
-      <link>manowar.netlify.app/pages/shop/</link>
+      <link>https://manowar.netlify.app/pages/shop/</link>
       <pubDate>Sun, 22 Mar 2020 12:01:59 +0000</pubDate>
       
-      <guid>manowar.netlify.app/pages/shop/</guid>
+      <guid>https://manowar.netlify.app/pages/shop/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>manowar.netlify.app/pages/contact/</link>
+      <link>https://manowar.netlify.app/pages/contact/</link>
       <pubDate>Fri, 28 Feb 2020 12:01:59 +0000</pubDate>
       
-      <guid>manowar.netlify.app/pages/contact/</guid>
+      <guid>https://manowar.netlify.app/pages/contact/</guid>
       <description>Contact us for more information</description>
     </item>
     

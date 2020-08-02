@@ -2,56 +2,56 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Products on Man O&#39;War</title>
-    <link>manowar.netlify.app/products/</link>
+    <link>https://manowar.netlify.app/products/</link>
     <description>Recent content in Products on Man O&#39;War</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="manowar.netlify.app/products/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://manowar.netlify.app/products/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Walk One</title>
-      <link>manowar.netlify.app/products/product-one/</link>
+      <link>https://manowar.netlify.app/products/product-one/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>manowar.netlify.app/products/product-one/</guid>
+      <guid>https://manowar.netlify.app/products/product-one/</guid>
       <description>A three hour walking tour for small groups</description>
     </item>
     
     <item>
       <title>Walk Two</title>
-      <link>manowar.netlify.app/products/product-two/</link>
+      <link>https://manowar.netlify.app/products/product-two/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>manowar.netlify.app/products/product-two/</guid>
+      <guid>https://manowar.netlify.app/products/product-two/</guid>
       <description>This is walk two</description>
     </item>
     
     <item>
       <title>Walk Three</title>
-      <link>manowar.netlify.app/products/product-three/</link>
+      <link>https://manowar.netlify.app/products/product-three/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>manowar.netlify.app/products/product-three/</guid>
+      <guid>https://manowar.netlify.app/products/product-three/</guid>
       <description>This is walk three</description>
     </item>
     
     <item>
       <title>Walk Four</title>
-      <link>manowar.netlify.app/products/product-four/</link>
+      <link>https://manowar.netlify.app/products/product-four/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>manowar.netlify.app/products/product-four/</guid>
+      <guid>https://manowar.netlify.app/products/product-four/</guid>
       <description>This is walk four</description>
     </item>
     
     <item>
       <title>Walk Five</title>
-      <link>manowar.netlify.app/products/product-five/</link>
+      <link>https://manowar.netlify.app/products/product-five/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>manowar.netlify.app/products/product-five/</guid>
+      <guid>https://manowar.netlify.app/products/product-five/</guid>
       <description>This is walk five</description>
     </item>
     
