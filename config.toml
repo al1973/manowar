@@ -1,4 +1,4 @@
-baseURL = "manowar.netlify.app"
+baseURL = "manowar.netlify.app/"
 languageCode = "en-us"
 title = "Man O'War"
 theme = "manowar-theme"
